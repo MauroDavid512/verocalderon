@@ -4,7 +4,7 @@ import imgAbout from "../imgs/_DSC0800.jpg"
 
 function About() {
     return (
-        <div className="">
+        <div >
             <div>
                 <div className="aboutText">
                     <div className="aboutTitle">

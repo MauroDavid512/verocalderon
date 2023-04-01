@@ -26,7 +26,8 @@ function Experience() {
                 {
                     title:"La farsa de los ausentes",
                     director: "Juan Comotti",
-                    date: "2018"
+                    date: "2018",
+                    link: "https://instagram.com/lafarsaausentes?igshid=YWVjMmZiZjg="
                 },
                 {
                     title:"Tribuna Capuleto",
@@ -58,7 +59,8 @@ function Experience() {
                 {
                     title: 'Érase una vez en Cuyo',
                     director: "Danyel Bustos",
-                    date: "2022"
+                    date: "2022",
+                    link: "https://instagram.com/rayuelateatroinfantil?igshid=YWVjMmZiZjg="
                 }
             ]
         },
@@ -158,10 +160,36 @@ function Experience() {
             img: `${intervencion}`,
             experience: [
                 {
-
+                    title: "Mendoza Inspira" ,
+                    date: "2018"
                 },
                 {
-
+                    title: "ExpoEducativa UNCuyo",
+                    date: "Junio 2019"
+                },
+                {
+                    title: "Feria del Libro 2021",
+                    date: "2021"
+                },
+                {
+                    title: "Noche de Luz y Fuego",
+                    date: "2022"
+                },
+                {
+                    title: "Festival de la Libertad",
+                    date: "Enero 2020"
+                },
+                {
+                    title: "Festival de Alta Montaña",
+                    date:  "Febrero 2020"
+                },
+                {
+                    title: 'Presentación "Bu y Bu: una aventura interdimencional"' ,
+                    date: "Agosto 2022"
+                },
+                {
+                    title: "Diageo en Park Hyatt" ,
+                    date: "Julio 2022"
                 }
             ]
         },
